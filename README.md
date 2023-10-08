@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @Cliche-Ending
-- 👀 I’m interested in bouldering and working out!
-- 🌱 I’m currently learning Java, Python, Excel Spreadsheets.
-- 👨‍🎓 I am majoring in Computer Science!
-<!---
-Cliche-Ending/Cliche-Ending is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi There! My name is Jimmyinn.
+-----
+# 📣 About Me
+My name is Jimmy and I am a 2/4 Computer Science student!
+
+### 🧰 Current Tools
+
+- Code:
+  - Java
+  - HTML
+  - CSS
+  - JavaScript
+  - Python
+  - MySQL
+  - C
+  - C++
+  
+- Frameworks:
+  - React (a tiny bit)
+  
+- Editors:
+  - VS Code
+  - Virtual Machine
+    
+- Experience:
+  - Education + some internship experience maintaining websites.
+-----
